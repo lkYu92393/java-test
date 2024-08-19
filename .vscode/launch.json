@@ -16,6 +16,14 @@
             "request": "launch",
             "mainClass": "Main",
             "projectName": "java-test_c75e9533"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "cwd": "${workspaceFolder}/no-build-tool/src",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java-test_c75e9533"
         }
     ]
 }
